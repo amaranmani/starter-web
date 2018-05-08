@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 ## GitHub content
 
 comparison with repo
+
+compare staging area
