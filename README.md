@@ -9,3 +9,7 @@ A lot of letcture are already submited
 ##GTI & GitHub Training
 
 Sample website with plenty of files for demos
+
+## GitHub content
+
+comparison with repo
