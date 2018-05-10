@@ -5,7 +5,7 @@
 
     <name> amaran thank you <twitter>
 	amaran2106@gmail.com
-	amaran mani
+	devops engineer
 
 # THANKS
 
@@ -15,3 +15,4 @@
 
     HTML5, CSS3, jenkins
     jQuery, Modernizr,java
+	docker, java programing 
